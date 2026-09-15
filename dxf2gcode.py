@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+#20260915 AI generation
+#need lib exdxf install: pip install ezdxf
+#grbl
+#convert 2d Freecad dxf file to gcode 2d
+#no cuttong order from inside to outside, need to create multiple path for inside and edge
 import ezdxf,sys
 from ezdxf import path
 
