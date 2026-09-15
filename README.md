@@ -1,5 +1,5 @@
-AI generate python3 code
-grbl lib using for plasma cutting table 2d
+AI generate python3 code /n
+grbl lib using for plasma cutting table 2d /n
 convert from freeCAD 2d draw and save in dxf format
 this not cutting from inside out, creating, multiple layouts if you have multiple holes in loop
 command line: ./dxf2gcode input.dxf out.gcode
